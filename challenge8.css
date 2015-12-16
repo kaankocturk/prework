@@ -1,0 +1,11 @@
+ul[class="nav navbar-nav"] li{
+  background-color: rgb(160,230,255);
+  color: white;
+  margin: 0 1px 0 1px;
+}
+i[class="fa fa-home fa-fw"]{
+  background-color: rgb(160,230,255);
+}
+.container{
+  background-color: #CCCCCC;
+}
